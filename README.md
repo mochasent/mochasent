@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mocha</h1>
-<h3 align="center">I am a beginner code. I usually code for fun or out of pure boredom. Not sure where to take coding at this current state.</h3>
+<h3 align="center">i basically code when i'm bored</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mochasent&label=Profile%20views&color=0e75b6&style=flat" alt="mochasent" /> </p>
 
